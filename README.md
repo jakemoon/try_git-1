@@ -1,3 +1,3 @@
 try_git
 =======
-Hello, world!
+Hello, dog!
